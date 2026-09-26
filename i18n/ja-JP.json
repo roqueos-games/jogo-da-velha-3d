@@ -1,0 +1,19 @@
+{
+  "title": "3D三目並べ",
+  "tagline": "4×4×4のキューブで三目並べ, 空間のどの方向でも4つ揃えよう。",
+  "yourTurn": "あなたの番",
+  "aiThinking": "AIが考え中…",
+  "youWin": "あなたの勝ち！",
+  "aiWins": "AIの勝ち",
+  "draw": "引き分け",
+  "again": "もう一度",
+  "menu": "メニュー",
+  "wins": "勝利数",
+  "diff": {
+    "easy": "かんたん",
+    "medium": "ふつう",
+    "hard": "むずかしい"
+  },
+  "soundOn": "サウンドON",
+  "soundOff": "サウンドOFF"
+}

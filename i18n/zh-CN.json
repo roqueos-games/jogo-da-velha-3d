@@ -1,0 +1,19 @@
+{
+  "title": "3D井字棋",
+  "tagline": "在4×4×4立方体上玩井字棋 —— 在空间任意方向上连成四子。",
+  "yourTurn": "轮到你",
+  "aiThinking": "AI 思考中…",
+  "youWin": "你赢了！",
+  "aiWins": "AI 获胜",
+  "draw": "平局",
+  "again": "再玩一局",
+  "menu": "菜单",
+  "wins": "胜场",
+  "diff": {
+    "easy": "简单",
+    "medium": "中等",
+    "hard": "困难"
+  },
+  "soundOn": "声音开",
+  "soundOff": "声音关"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "3D Tic-Tac-Toe",
+  "tagline": "Tic-tac-toe on a 4×4×4 cube, line up four in any direction in space.",
+  "yourTurn": "Your turn",
+  "aiThinking": "AI thinking…",
+  "youWin": "You win!",
+  "aiWins": "The AI wins",
+  "draw": "Draw",
+  "again": "Play again",
+  "menu": "Menu",
+  "wins": "Wins",
+  "diff": {
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard"
+  },
+  "soundOn": "Sound on",
+  "soundOff": "Sound off"
+}

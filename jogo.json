@@ -1,0 +1,58 @@
+{
+  "id": "velha3d",
+  "slug": "jogo-da-velha-3d",
+  "versaoDoContrato": 1,
+  "nome": {
+    "pt-BR": "Velha 3D",
+    "en-US": "3D Tic-Tac-Toe",
+    "es-ES": "Tres en raya 3D",
+    "fr-FR": "Morpion 3D",
+    "de-DE": "3D-Tic-Tac-Toe",
+    "ja-JP": "3D三目並べ",
+    "zh-CN": "3D井字棋",
+    "hi-IN": "3D टिक-टैक-टो",
+    "ru-RU": "Крестики-нолики 3D",
+    "ar-AR": "إكس-أو ثلاثي الأبعاد"
+  },
+  "descricao": {
+    "pt-BR": "Jogo da velha em 3D num cubo 4×4×4 contra a IA, alinhe 4 em qualquer direção.",
+    "en-US": "3D tic-tac-toe on a 4×4×4 cube against the AI, line up four in any direction.",
+    "es-ES": "Tres en raya 3D en un cubo 4×4×4 contra la IA, alinea cuatro en cualquier dirección.",
+    "fr-FR": "Morpion 3D sur un cube 4×4×4 contre l’IA, alignez quatre pions dans n’importe quelle direction.",
+    "de-DE": "3D-Tic-Tac-Toe auf einem 4×4×4-Würfel gegen die KI, bringe vier in beliebiger Richtung in eine Reihe.",
+    "ja-JP": "4×4×4のキューブでAIと対戦する3D三目並べ, どの方向でも4つ揃えよう。",
+    "zh-CN": "在 4×4×4 立方体上与 AI 对战的 3D 井字棋 —— 在任意方向连成四子。",
+    "hi-IN": "4×4×4 घन पर AI के विरुद्ध 3D टिक-टैक-टो, किसी भी दिशा में चार को एक पंक्ति में मिलाएँ।",
+    "ru-RU": "Крестики-нолики 3D на кубе 4×4×4 против ИИ, соберите четыре в ряд в любом направлении.",
+    "ar-AR": "إكس-أو ثلاثي الأبعاد على مكعب 4×4×4 ضد الذكاء الاصطناعي, رتّب أربعة في صف بأي اتجاه."
+  },
+  "seo": {
+    "pt-BR": {
+      "resumo": "Jogo da velha 3D grátis no navegador: cubo 4×4×4 contra a IA, alinhe quatro em qualquer direção do espaço.",
+      "sobre": "A velha num cubo de 4×4×4: valem as linhas dos planos, as colunas em profundidade e as diagonais que atravessam o cubo inteiro. São 76 linhas vencedoras, e é por isso que o empate quase não existe aqui.",
+      "comoJogar": "Gire o cubo com o mouse e clique na casa. A IA joga em seguida, e ela olha as diagonais."
+    },
+    "en-US": {
+      "resumo": "Free 3D tic-tac-toe in your browser: a 4×4×4 cube against the AI, line up four in any direction in space.",
+      "sobre": "Tic-tac-toe on a 4×4×4 cube: plane lines count, depth columns count, and so do the diagonals that cross the whole cube. There are 76 winning lines, which is why draws barely happen here.",
+      "comoJogar": "Rotate the cube with the mouse and click a cell. The AI answers, and it does watch the diagonals."
+    }
+  },
+  "etiquetas": ["3d", "Strategy", "AI"],
+  "capa": "public/capa.jpg",
+  "icone": "public/icone.svg",
+  "brilho": "rgba(34, 211, 238, 0.5)",
+  "janela": {
+    "largura": 560,
+    "altura": 680,
+    "minLargura": 380,
+    "minAltura": 520
+  },
+  "aceitaConvite": false,
+  "entraNoPodio": true,
+  "recorde": {
+    "chave": "wins",
+    "maiorEMelhor": true
+  },
+  "capacidades": []
+}

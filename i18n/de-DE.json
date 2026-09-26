@@ -1,0 +1,19 @@
+{
+  "title": "3D-Tic-Tac-Toe",
+  "tagline": "Tic-Tac-Toe auf einem 4×4×4-Würfel, bringe vier in beliebiger Raumrichtung in eine Reihe.",
+  "yourTurn": "Du bist dran",
+  "aiThinking": "KI denkt nach…",
+  "youWin": "Du gewinnst!",
+  "aiWins": "Die KI gewinnt",
+  "draw": "Unentschieden",
+  "again": "Nochmal spielen",
+  "menu": "Menü",
+  "wins": "Siege",
+  "diff": {
+    "easy": "Leicht",
+    "medium": "Mittel",
+    "hard": "Schwer"
+  },
+  "soundOn": "Ton an",
+  "soundOff": "Ton aus"
+}

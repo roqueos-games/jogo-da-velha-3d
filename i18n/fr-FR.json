@@ -1,0 +1,19 @@
+{
+  "title": "Morpion 3D",
+  "tagline": "Morpion sur un cube 4×4×4, alignez quatre pions dans n’importe quelle direction.",
+  "yourTurn": "À toi de jouer",
+  "aiThinking": "L’IA réfléchit…",
+  "youWin": "Tu as gagné !",
+  "aiWins": "L’IA gagne",
+  "draw": "Match nul",
+  "again": "Rejouer",
+  "menu": "Menu",
+  "wins": "Victoires",
+  "diff": {
+    "easy": "Facile",
+    "medium": "Moyen",
+    "hard": "Difficile"
+  },
+  "soundOn": "Son activé",
+  "soundOff": "Son désactivé"
+}

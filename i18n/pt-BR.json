@@ -1,0 +1,19 @@
+{
+  "title": "Velha 3D",
+  "tagline": "Jogo da velha num cubo 4×4×4, alinhe 4 em qualquer direção do espaço.",
+  "yourTurn": "Sua vez",
+  "aiThinking": "IA pensando…",
+  "youWin": "Você venceu!",
+  "aiWins": "A IA venceu",
+  "draw": "Empate",
+  "again": "Jogar de novo",
+  "menu": "Menu",
+  "wins": "Vitórias",
+  "diff": {
+    "easy": "Fácil",
+    "medium": "Médio",
+    "hard": "Difícil"
+  },
+  "soundOn": "Som ligado",
+  "soundOff": "Som desligado"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Tres en raya 3D",
+  "tagline": "Tres en raya en un cubo 4×4×4: alinea cuatro en cualquier dirección del espacio.",
+  "yourTurn": "Tu turno",
+  "aiThinking": "La IA piensa…",
+  "youWin": "¡Has ganado!",
+  "aiWins": "Gana la IA",
+  "draw": "Empate",
+  "again": "Jugar de nuevo",
+  "menu": "Menú",
+  "wins": "Victorias",
+  "diff": {
+    "easy": "Fácil",
+    "medium": "Medio",
+    "hard": "Difícil"
+  },
+  "soundOn": "Sonido activado",
+  "soundOff": "Sonido desactivado"
+}
